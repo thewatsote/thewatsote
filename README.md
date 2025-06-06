@@ -1,5 +1,4 @@
-Amateur Coder
-Wanna learn AI, Machine Learning, Data Science
+I'm an amatuer coder. I wanna learn more about AI, Machine Learning, Data Science
 
 Check out my repos! 😄
 <!--
