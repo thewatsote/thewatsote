@@ -3,7 +3,6 @@ Student | Tutor | Gamer
 - I'm a Comp Sci student and amatuer coder.
 - I sometimes tutor IGCSE students.
 - I wanna learn more about AI, NLP, Machine Learning, and Data Science.
-- Reach me at thawyezzay@gmail.com
 
 Check out my repos! 😄
 <!--
