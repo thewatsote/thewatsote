@@ -1,8 +1,8 @@
 Student | Tutor | Gamer
 
-- I'm a Comp Sci student and amatuer coder.
-- I sometimes tutor IGCSE students.
-- I wanna learn more about AI, NLP, Machine Learning, and Data Science.
+- I'm a first year Comp Sci student.
+- I tutor IGCSE students.
+- I like to play RPGs and watch TV shows.
 
 Check out my repos! 😄
 <!--
