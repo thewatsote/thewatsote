@@ -1,10 +1,5 @@
-Student | Tutor | Gamer
+Aspiring CompSci Student, Freelance Tutor
 
-- I'm a first year Comp Sci student.
-- I tutor IGCSE students.
-- I like to play RPGs and watch TV shows.
-
-Check out my repos! 😄
 <!--
 **thewatsote/thewatsote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
